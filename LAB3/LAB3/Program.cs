@@ -12,6 +12,7 @@ namespace LAB3
         {
             Console.WriteLine("Hello!");
             Console.WriteLine("I'm Sergei");
+            Console.WriteLine("Hello! I'm Sergei");
             Console.ReadKey();
         }
     }
